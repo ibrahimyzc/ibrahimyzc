@@ -1,4 +1,4 @@
-# Hi, I'm Ibrahim Yazici! 👋
+# Hi, I'm Ibrahim! 👋
 
 ## About Me
 I'm a **Doctoral Researcher in Applied Mathematics** at the **University of Pittsburgh**, where I focus on **numerical solutions of partial differential equations (PDEs)**, **mixed finite element methods**, and **computational fluid dynamics**. I have a strong academic background with experience in both research and teaching, and I'm passionate about applying mathematical models to solve real-world problems.
