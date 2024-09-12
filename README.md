@@ -41,10 +41,3 @@ I'm a **Doctoral Researcher in Applied Mathematics** at the **University of Pitt
 I am working on several projects related to **numerical analysis**, **elasticity modeling**, and **machine learning algorithms**. Check out my repositories to explore:
 - Numerical ODE projects using MATLAB
 - Machine learning computational projects from graduate coursework
-
-## Interests
-- **Numerical solutions of PDEs**
-- **Stability and error analysis in numerical methods**
-- **Scientific computing and elasticity modeling**
-- **Machine learning frameworks applied to real-world problems**
-
