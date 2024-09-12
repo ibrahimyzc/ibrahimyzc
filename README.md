@@ -48,5 +48,3 @@ I am working on several projects related to **numerical analysis**, **elasticity
 - **Scientific computing and elasticity modeling**
 - **Machine learning frameworks applied to real-world problems**
 
-## Let's Connect!
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/ibrahim-yazici-pitt) or reach out to collaborate on interesting projects.
