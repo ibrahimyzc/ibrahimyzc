@@ -36,7 +36,10 @@ I'm currently pursuing a PhD in Applied Mathematics at the University of Pittsbu
 - **Document Tools**: LaTeX, Microsoft Office
 - **Operating Systems**: macOS, Windows
 
-## Projects
-I’m working on several projects in numerical analysis, elasticity modeling, and machine learning. Feel free to check out my repositories for projects like:
-- Numerical ODEs using MATLAB
-- Machine learning projects from graduate coursework
+## Projects  
+I’m working on several projects in numerical analysis, data science, and machine learning. Feel free to check out my repositories for projects like:  
+- Numerical ODE and PDE simulations using MATLAB and FreeFEM++.  
+- Machine learning projects from graduate coursework  
+- Data science and machine learning projects from the IBM Data Science Professional Certificate  
+- Machine learning projects from the Mathematics for Machine Learning and Data Science Specialization
+
