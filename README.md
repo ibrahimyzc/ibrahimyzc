@@ -34,7 +34,6 @@ I'm currently pursuing a PhD in Applied Mathematics at the University of Pittsbu
 - **Programming**: C/C++, Matlab, R, Python
 - **Scientific Tools**: deal.II, FreeFEM++, ParaView
 - **Document Tools**: LaTeX, Microsoft Office
-- **Operating Systems**: macOS, Windows
 
 ## Projects  
 I’m working on several projects in numerical analysis, data science, and machine learning. Feel free to check out my repositories for projects like:  
