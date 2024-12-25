@@ -19,7 +19,7 @@ I'm currently pursuing a PhD in Applied Mathematics at the University of Pittsbu
   - Mixed finite element methods for elasticity
   - Numerical stability and error analysis
   - Interactions between fluid flow and poroelastic media
-- **Publications**:
+- **Publications (Preprints)**:
   - I. Yazici, I. Yotov, *A multipoint stress mixed finite element method for elasticity on cuboid grids*
   - I. Yazici, I. Yotov, *A multipoint stress mixed finite element method for elasticity on distorted quadrilateral grids*
   - I. Yazici, I. Yotov, *A coupled multipoint stress – multipoint flux mixed finite element method for the Biot system of poroelasticity*
