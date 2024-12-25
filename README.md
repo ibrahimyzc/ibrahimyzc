@@ -31,7 +31,7 @@ I'm currently pursuing a PhD in Applied Mathematics at the University of Pittsbu
 - **Machine Learning** (University of Pittsburgh, Fall 2023)
 
 ## Skills
-- **Programming**: C/C++, Matlab, R, Python
+- **Programming**: C/C++, Matlab, R, Python, SQL
 - **Scientific Tools**: deal.II, FreeFEM++, ParaView
 - **Document Tools**: LaTeX, Microsoft Office
 
