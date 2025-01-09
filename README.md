@@ -9,8 +9,8 @@ I'm currently pursuing a PhD in Applied Mathematics at the University of Pittsbu
 - **BSc in Mathematical Engineering** (2007 – 2012), Istanbul Technical University, Istanbul, Türkiye
 
 ## Work Experience
-- **Graduate Teaching Assistant**, University of Pittsburgh (2019 – Present)
-  - Courses: Analytic Geometry, Calculus, Differential Equations, Business Calculus, Algebra
+- **Doctoral Researcher & Teaching Assistant**, University of Pittsburgh (2019 – Present)
+  - Performed advanced research in numerical analysis and scientific computing. Courses Taught: Analytic Geometry, Calculus, Differential Equations, Business Calculus, Algebra
 - **Mathematics Teacher**, Nigerian Tulip International Colleges (2012 – 2019)
   - Taught Further Math, Algebra, and Statistics; led Math Olympiad teams
 
