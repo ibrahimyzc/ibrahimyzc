@@ -1,7 +1,7 @@
 # Hi, I'm Ibrahim! 
 
 ## About Me
-I'm currently pursuing a PhD in Applied Mathematics at the University of Pittsburgh. My research interests are in numerical solutions for partial differential equations (PDEs), mixed finite element methods, and computational fluid dynamics. With a background in both teaching and research, I enjoy applying mathematical models and exploring data science and machine learning to solve practical problems.
+I'm currently pursuing a PhD in Applied Mathematics at the University of Pittsburgh. My research focuses on numerical solutions for partial differential equations (PDEs), mixed finite element methods, and computational fluid dynamics. I am particularly interested in applying advanced mathematical models, optimization techniques, and statistical methods to solve complex, real-world problems. With a strong foundation in research and teaching, I enjoy leveraging data science, machine learning, and quantitative analysis to tackle challenges in finance and other industries.
 
 ## Education
 - **PhD in Applied Mathematics** (2019 – Present), University of Pittsburgh, PA
