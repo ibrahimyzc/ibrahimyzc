@@ -24,6 +24,7 @@ I'm currently pursuing a PhD in Applied Mathematics at the University of Pittsbu
   - I. Yazici, I. Yotov, *Multipoint stress mixed finite element methods for elasticity on distorted quadrilateral grids*
   - I. Yazici, I. Yotov, *A coupled multipoint stress – multipoint flux mixed finite element method for the Biot system of poroelasticity on distorted quadrilateral grids*
   - I. Yazici, I. Yotov, *A coupled multipoint stress – multipoint flux mixed finite element method for the Biot system of poroelasticity on cuboid grids*
+- **Master's Thesis**: *Solutions of Partial Differential Equations by the Differential Quadrature Method*, Fatih University, Türkiye, 2016
 
 ## Certifications & Courses
 - **Mathematics for Machine Learning and Data Science** (DeepLearning.AI, Coursera, Feb 2024)
