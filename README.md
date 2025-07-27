@@ -1,15 +1,15 @@
 # Hi, I'm Ibrahim! 
 
 ## About Me
-I hold a PhD in Applied Mathematics from the University of Pittsburgh, where my research focused on numerical solutions for partial differential equations, mixed finite element methods, and computational fluid dynamics. I’m particularly interested in applying advanced mathematical models, optimization techniques, and statistical methods to solve complex, real-world problems. With a strong background in research and teaching, I enjoy leveraging data science, machine learning, and quantitative analysis to address challenges in finance and related fields.
+I hold a PhD in Applied Mathematics from the University of Pittsburgh, where my research focused on numerical solutions for partial differential equations, mixed finite element methods, and computational fluid dynamics. I’m particularly interested in applying advanced mathematical models, optimization techniques, and statistical methods to solve complex, real-world problems. With a strong background in research and teaching, I enjoy leveraging data science, machine learning, and quantitative analysis to address challenges in finance and other industries.
 
 ## Education
-- **PhD in Applied Mathematics** (2019 – Present), University of Pittsburgh, PA
+- **PhD in Applied Mathematics** (2019 – 2025), University of Pittsburgh, PA
 - **MSc in Mathematics** (2014 – 2016), Fatih University, Istanbul, Türkiye
 - **BSc in Mathematical Engineering** (2007 – 2012), Istanbul Technical University, Istanbul, Türkiye
 
 ## Work Experience
-- **Doctoral Researcher & Teaching Assistant**, University of Pittsburgh (2019 – Present)
+- **Doctoral Researcher & Teaching Assistant**, University of Pittsburgh (2019 – 2025)
   - Performed advanced research in numerical analysis and scientific computing. Courses Taught: Analytic Geometry, Calculus, Differential Equations, Business Calculus, Algebra
 - **Mathematics Teacher**, Nigerian Tulip International Colleges (2012 – 2019)
   - Taught Further Math, Algebra, and Statistics; led Math Olympiad teams
