@@ -9,6 +9,7 @@ I hold a PhD in Applied Mathematics from the University of Pittsburgh, where my 
 - **BSc in Mathematical Engineering** (2007 – 2012), Istanbul Technical University, Istanbul, Türkiye
 
 ## Work Experience
+- **VP, Model Risk Management**, BNY (2025 – Present)
 - **Doctoral Researcher & Teaching Assistant**, University of Pittsburgh (2019 – 2025)
   - Performed advanced research in numerical analysis and scientific computing. Courses Taught: Analytic Geometry, Calculus, Differential Equations, Business Calculus, Algebra
 - **Mathematics Teacher**, Nigerian Tulip International Colleges (2012 – 2019)
