@@ -4,7 +4,7 @@
 I hold a PhD in Applied Mathematics from the University of Pittsburgh, where my research focused on numerical solutions for partial differential equations, mixed finite element methods, and computational fluid dynamics. I’m particularly interested in applying advanced mathematical models, optimization techniques, and statistical methods to solve complex, real-world problems. With a strong background in research and teaching, I enjoy leveraging data science, machine learning, and quantitative analysis to address challenges in finance and other industries.
 
 ## Education
-- **PhD in Applied Mathematics** (2019 – 2025), University of Pittsburgh, PA
+- **PhD in Applied Mathematics** (2019 – 2025), University of Pittsburgh, PA, USA
 - **MSc in Mathematics** (2014 – 2016), Fatih University, Istanbul, Türkiye
 - **BSc in Mathematical Engineering** (2007 – 2012), Istanbul Technical University, Istanbul, Türkiye
 
